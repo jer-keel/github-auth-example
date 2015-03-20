@@ -1,5 +1,6 @@
 bower_components/
 node_modules/
+config/auth.js
 
 # --------------------
 # Standard files to ignore
